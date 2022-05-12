@@ -1,6 +1,5 @@
 # Olympic-history-analytics
 
-This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 120 metų olimpinių žaidynių istoriniai duomenys, nuo 1896 metų Atėnuose iki 2016 metų Rio.
 
 Užduotys:
