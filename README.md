@@ -1,7 +1,10 @@
 # Olympic-history-analytics
 
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
+120 metų olimpinių žaidynių istoriniai duomenys, nuo 1896 metų Atėnuose iki 2016 metų Rio.
+
 Užduotys:
+
 Kaip keitėsi olimpinių žaidynių valstybių, sportininkų, medalių skaičius bendrai ir per laiką.
 Olimpinėse žaidinėse dalyvavusių valstybių analizė pagal kelis kriterijus:
 1. Kokios šalys laimėjo daugiausia medalių bendrai ir Aukso, Sidabro, Bronzos medalius atskirai.
